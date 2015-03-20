@@ -1,0 +1,48 @@
+<style>
+.zpvc a:link, .zpvc a:visited {text-decoration: none; ; border-bottom: 1px dotted; color:#111111}  
+.zpvc a:hover {text-decoration:underline; color:#E8A01A}  
+.zpvc tr.vyhrany { background-color:#15ce53}    
+.zpvc tr.prohrany { background-color:#ff0839}    
+.zpvc tr.venku { background-color:#cccccc}
+.zpvc td { border: 1px solid #aaa}    
+</style>
+
+
+Výsledky na <a href="http://www.cvf.cz/souteze.php?action=skupina&id=6224" target="_blank">CVF</a>.
+
+<table border="1" class="zpvc"><tbody>
+<tr class="vyhrany"><td><a href="" title="Účast">PVC - Michle</a></td><td>19.1.</td><td>pondělí</td><td>20:25</td>
+<td>Třebešín</a></td><td><a href="http://pvc.cce.cz/?q=content/pvc-michle-30-0" title="Komentář">3:0 (19,23,15)</td></tr>
+<tr class="prohrany"><td><a href="http://pvc.cce.cz/?q=content/pvc-kometa-doma-0" title="Účast">PVC - Kometa</a></td><td>2.2.</td><td>pondělí</td><td>20:25</td>
+<td>Třebešín</a></td><td><a href="http://pvc.cce.cz/?q=content/pvc-kometa-03-23-22-23" title="Komentář">0:3 (-23,-22,-23)</a></td></tr>
+<tr class="vyhrany"><td><a href="http://pvc.cce.cz/?q=content/pvc-prosek-doma" title="Účast">PVC - Prosek</a></td><td>9.2.</td><td>pondělí</td><td>20:25</td>
+<td>Třebešín</a></td><td><a href="http://pvc.cce.cz/?q=content/pvc-prosek-31-m%C3%A1lo-moc-st%C5%99edn%C4%9B-st%C5%99edn%C4%9B" title="Komentář">3:1 (13,35,-22,19)</a></td></tr>
+<tr><td><a href="http://pvc.cce.cz/?q=content/pvc-beach-slavia-doma-0" title="Účast">PVC - Beach Slavia</a></td><td>9.3.</td><td>pondělí</td><td>20:25</td>
+<td>Třebešín</a></td><td></td></tr>
+<tr class="venku"><td><a href="http://pvc.cce.cz/?q=content/stavebn%C3%AD-fakulta-pvc-venku" title="Účast">Stavebka - PVC</a></td><td>17.3.</td><td>úterý</td><td>20:30</td>
+<td><a href="http://mapy.cz/s/94OY" title="Z M-A Dejvická A 107, 147 nebo T 8 na zast. Podbaba" target="_blank">Pod Juliskou 4, Praha6-Podbaba</a></td><td></td></tr>
+<tr><td><a href="http://pvc.cce.cz/?q=content/pvc-kyje-doma-0" title="Účast">PVC - Kyje</a></td><td>23.3.</td><td>pondělí</td><td>20:25</td>
+<td>Třebešín</a></td><td></td></tr>
+<tr class="venku"><td><a href="http://pvc.cce.cz/?q=content/mod%C5%99any-b-pvc-venku-0" title="Účast">Modřany - PVC</a></td><td>27.3.</td><td>pátek</td><td>20:30</td>
+<td><a href="http://mapy.cz/s/fyLj" title="A 139, 165 na zast. Na Havránce nebo T 3, 17 na zast. Nádraží Modřany" target="_blank">K Vltavě 410, Praha 4- Modřany</a></td><td></td></tr>
+
+</tbody></table><!--break-->
+
+<tr class="venku"><td><a href="" title="Účast"> - PVC</a></td><td>8.2.</td><td>pátek</td><td>20:30</td>
+<td><a href="" title="" target="_blank"></a></td><td></td></tr>
+<tr><td><a href="" title="Účast">PVC - </a></td><td>8.2.</td><td>pondělí</td><td>20:25</td>
+<td>Třebešín</a></td><td></td></tr>
+
+#15ce53
+#ff0839
+#cccccc
+
+pondělí
+úterý
+středa
+čtvrtek
+pátek
+
+<a href="" title="" target="_blank"></a>
+<a href="" title="Účast">
+<a href="" title="Komentář">
