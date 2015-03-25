@@ -20,9 +20,9 @@ Výsledky na <a href="http://www.cvf.cz/souteze.php?action=skupina&id=6224" targ
 <tr class="vyhrany"><td><a href="http://pvc.cce.cz/?q=content/pvc-beach-slavia-doma-0" title="Účast">PVC - Beach Slavia</a></td><td>9.3.</td><td>pondělí</td><td>20:25</td>
 <td>Třebešín</a></td><td><a href="http://pvc.cce.cz/?q=content/pvc-beach-slavia-30-221722" title="Komentář">3:0 (22,17,22)</a></td></tr>
 <tr class="vyhrany"><td><a href="http://pvc.cce.cz/?q=content/stavebn%C3%AD-fakulta-pvc-venku" title="Účast">Stavebka - PVC</a></td><td>17.3.</td><td>úterý</td><td>20:30</td>
-<td><a href="http://mapy.cz/s/94OY" title="Z M-A Dejvická A 107, 147 nebo T 8 na zast. Podbaba" target="_blank">Pod Juliskou 4, Praha6-Podbaba</a></td><td><a href="http://pvc.cce.cz/?q=content/stav-fakulta-hostiva%C5%99-b-p%C5%99%C3%ADrv%C4%9Bdy-13" title="Komentář">1:3</a></td></tr>
-<tr><td><a href="http://pvc.cce.cz/?q=content/pvc-kyje-doma-0" title="Účast">PVC - Kyje</a></td><td>23.3.</td><td>pondělí</td><td>20:25</td>
-<td>Třebešín</a></td><td></td></tr>
+<td><a href="http://mapy.cz/s/94OY" title="Z M-A Dejvická A 107, 147 nebo T 8 na zast. Podbaba" target="_blank">Pod Juliskou 4, Praha6-Podbaba</a></td><td><a href="http://pvc.cce.cz/?q=content/stav-fakulta-hostiva%C5%99-b-p%C5%99%C3%ADrv%C4%9Bdy-13" title="Komentář">1:3 (22,-23,-22,-15)</a></td></tr>
+<tr class="prohrany"><td><a href="http://pvc.cce.cz/?q=content/pvc-kyje-doma-0" title="Účast">PVC - Kyje</a></td><td>23.3.</td><td>pondělí</td><td>20:25</td>
+<td>Třebešín</a></td><td>2:3 (15,-22,-23,18,-12)</td></tr>
 <tr class="venku"><td><a href="http://pvc.cce.cz/?q=content/mod%C5%99any-b-pvc-venku-0" title="Účast">Modřany - PVC</a></td><td>27.3.</td><td>pátek</td><td>20:30</td>
 <td><a href="http://mapy.cz/s/fyLj" title="A 139, 165 na zast. Na Havránce nebo T 3, 17 na zast. Nádraží Modřany" target="_blank">K Vltavě 410, Praha 4- Modřany</a></td><td></td></tr>
 
